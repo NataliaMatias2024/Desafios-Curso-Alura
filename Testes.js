@@ -1,6 +1,7 @@
 let listaCompras = [];
-listaCompras.push("Sabão em pó");
-listaCompras.push("Papel Higienico");
-listaCompras.push("Papel de mao");
-listaCompras.push("Cookies");
-listaCompras.push("Torrada");
+
+listaCompras.push("Maçã Verde");
+listaCompras.push("Arroz 7 grãos");
+listaCompras.push("Leite de Vaca");
+listaCompras.push("Pão de fermentação natural");
+listaCompras.push("Carne");
